@@ -5,7 +5,7 @@
 PyBer is a ride-sharing app company valued at $2.3 billion. The CEO, V. Isualize wants a summary DataFrame of the ride-sharing data by city type and shown in multiple-line graph that shows the total weekly fares for each city types that will help improve access to ride sharing services and determine ride affordability.
 
 # Results:
-#Quick facts by city type, seen in the image below our facts
+# Quick facts by city type, seen in the image below our facts
 
 * Rural cities has the least amount of drivers, rides and total fares.
 * Urban cities have the most amount of drivers, rides and total fares.
